@@ -77,6 +77,9 @@ http://192.168.10.251:23234/rtp/239.3.1.245:2000
 # https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2217df8a-46d8-4fa8-b040-5abdd96d91ce.flv
 # #EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[非官方]
 # https://pull-l3-cny.douyincdn.com/live/YesLiveTV-63134406-69d7-436b-986a-9bd696d4e2cb.flv
+#EXTINF:-1 tvg-id="HKSTV.hk" tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="General",HKSTV
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
 #EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
 http://192.168.10.251:23234/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="该频道节目单尚无",4K超清[超清]
